@@ -36,7 +36,7 @@ int isfull()
    else
       return 0;
 }
-
+ 
 
 int peek() 
 {
@@ -188,4 +188,4 @@ int main()
 	}
 		
 	return 0;
-} 
+}  
