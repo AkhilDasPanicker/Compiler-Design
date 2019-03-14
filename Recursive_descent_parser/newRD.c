@@ -35,7 +35,7 @@ float parseProduct()
     return operand_1;
 }
 
-float parseSum()
+float parseSum() 
 {
     float operand_1 = parseProduct();
     
