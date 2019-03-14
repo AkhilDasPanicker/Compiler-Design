@@ -36,7 +36,7 @@ int isempty()
    else
       return 0;
 }
-   
+    
 int isfull()
 {
    if(top == MAXSIZE)
